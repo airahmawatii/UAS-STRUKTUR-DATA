@@ -1,2 +1,4 @@
 # UAS-STRUKTUR-DATA
 Nama : Ai Rahmawati
+NIM : 24416255201166
+Kelas : IF24D
